@@ -1,0 +1,17 @@
+CompilationUnit
+	TypeDeclaration
+		Modifier(public)
+		SimpleName(TestN) SimpleName(TestM)
+		MethodDeclaration
+			Modifier(public)
+			PrimitiveType(void)
+			SimpleName(a)
+
+CompilationUnit
+	TypeDeclaration
+		Modifier(public)
+		SimpleName(TestN) SimpleName(TestM)
+		MethodDeclaration
+			Modifier(public)
+			PrimitiveType(void)
+			SimpleName(a)
